@@ -3,11 +3,11 @@
   <title>穆~Blog</title>
   
   <subtitle>生活晴朗,万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://geyihan.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://geyihan.github.io/"/>
   <updated>2022-09-07T02:43:34.586Z</updated>
-  <id>http://example.com/</id>
+  <id>https://geyihan.github.io/</id>
   
   <author>
     <name>葛穆</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://geyihan.github.io/posts/4a17b156.html"/>
+    <id>https://geyihan.github.io/posts/4a17b156.html</id>
     <published>2022-09-07T02:05:01.633Z</published>
     <updated>2022-09-07T02:43:34.586Z</updated>
     
